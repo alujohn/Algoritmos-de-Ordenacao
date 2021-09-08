@@ -1,1 +1,4 @@
-# Algoritmos-de-Ordenacao
+- Atividade referente a disciplina Programação II.
+- Na questão 4 foi feito dois arquivos para demonstrar melhor a ordenação de 15.000 elementos gerados randomicamente do maior para o menor e vice-versa.
+- As questões de 1, 2, 3, e 5 estão inclusas nos algoritmos.
+- A questão 5 você pode alterar a quantidade de elementos de 10, 100, 1000, 10000 e 100000. Para exibir o tempo de ordenação de cada um em cada algoritmo. Para exibir a ordenação basta tirar o comentário na função execution.
